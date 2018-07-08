@@ -1,4 +1,5 @@
 HTEC.ChampionsLeague
+
 This project has been created as part of application process for HTEC.
 Aim of the project is to create API for tracking football results and presenting current standings on the table.
 
